@@ -3,24 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://bigq749.github.io/BigQ749/">
-    <img src="./assets/readme/hero.gif" width="100%" alt="Interactive homepage: pointer light and floating cards. Click to open.">
-  </a>
+  <img src="./assets/readme/hero.png" width="100%" alt="Saijun Qi. Hardware, desktop tools, agent skills.">
+</p>
+
+I'm **Saijun Qi** (GitHub [`BigQ749`](https://github.com/BigQ749)). I build hardware you can hold, desktop tools you can run, and skills an agent can pick up.
+
+**Email:** [saijunqi@gmail.com](mailto:saijunqi@gmail.com)  
+**GitHub:** [https://github.com/BigQ749](https://github.com/BigQ749)
+
+<p align="center">
+  <a href="mailto:saijunqi@gmail.com"><img src="./assets/readme/contact.png" width="100%" alt="Email saijunqi@gmail.com, GitHub BigQ749"></a>
 </p>
 
 <p align="center">
-  <a href="https://bigq749.github.io/BigQ749/"><strong>Open interactive page →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:saijunqi@gmail.com">saijunqi@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/BigQ749">GitHub</a>
+  <img src="./assets/readme/works.png" width="100%" alt="Projects: TRAE K2, QuotaDock, Douyin Analyzer, Dome, Typhoon Relief, Growth Skills.">
 </p>
-
-GitHub READMEs cannot run real hover UI. The live motion is on the **[interactive page](https://bigq749.github.io/BigQ749/)**: spotlight follows the pointer, cards tilt and float.
-
-Email: [saijunqi@gmail.com](mailto:saijunqi@gmail.com)
-
----
 
 | Project | What it is |
 | --- | --- |

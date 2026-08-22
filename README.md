@@ -3,26 +3,23 @@
 </p>
 
 <p align="center">
-  <a href="https://bigq749.github.io/BigQ749/">
-    <img src="./assets/readme/hero.gif" width="100%" alt="互动主页：鼠标跟光、卡片浮动。点击打开完整 UI。">
-  </a>
+  <img src="./assets/readme/hero.png" width="100%" alt="齐赛军 Saijun Qi，硬件、桌面工具、Agent Skill。">
+</p>
+
+我是 **齐赛军**（GitHub [`BigQ749`](https://github.com/BigQ749)）。做能拿在手里的硬件、能挂在桌面上的工具、能交给 Agent 的 Skill。
+
+**邮箱：** [saijunqi@gmail.com](mailto:saijunqi@gmail.com)  
+**GitHub：** [https://github.com/BigQ749](https://github.com/BigQ749)
+
+<p align="center">
+  <a href="mailto:saijunqi@gmail.com"><img src="./assets/readme/contact.png" width="100%" alt="邮箱 saijunqi@gmail.com，GitHub BigQ749"></a>
 </p>
 
 <p align="center">
-  <a href="https://bigq749.github.io/BigQ749/"><strong>打开互动主页 →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="mailto:saijunqi@gmail.com">saijunqi@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/BigQ749">GitHub</a>
+  <img src="./assets/readme/works.png" width="100%" alt="项目：TRAE K2、QuotaDock、抖音转写、穹顶、台风互助、Growth Skills。">
 </p>
 
-GitHub README 不能运行真正的按钮和悬停。完整动效在 **[互动主页](https://bigq749.github.io/BigQ749/)**：光斑跟鼠标走，卡片会倾斜、浮动。
-
-邮箱（直接写信）：[saijunqi@gmail.com](mailto:saijunqi@gmail.com)
-
----
-
-| 项目 | 做什么 |
+| 项目 | 介绍 |
 | --- | --- |
 | [TRAE K2](https://github.com/BigQ749/trae-k2-remote) | 大赛工牌烧成闪电说 / PPT 遥控器 |
 | [QuotaDock](https://github.com/BigQ749/quotadock) | 桌面额度浮窗，Codex / Grok / OpenCode 可分可合 |
