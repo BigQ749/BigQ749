@@ -3,14 +3,22 @@
 </p>
 
 <p align="center">
-  <img src="./assets/readme/hero.png" width="100%" alt="Hardware, desktop tools, agent skills. Ship it when it works.">
+  <a href="https://bigq749.github.io/BigQ749/">
+    <img src="./assets/readme/hero.gif" width="100%" alt="Interactive homepage: pointer light and floating cards. Click to open.">
+  </a>
 </p>
 
-Hardware · desktop tools · agent skills. Saijun Qi, GitHub [`BigQ749`](https://github.com/BigQ749).
+<p align="center">
+  <a href="https://bigq749.github.io/BigQ749/"><strong>Open interactive page →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:saijunqi@gmail.com">saijunqi@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/BigQ749">GitHub</a>
+</p>
 
-**Email** (opens a mail draft): [saijunqi@gmail.com](mailto:saijunqi@gmail.com)
+GitHub READMEs cannot run real hover UI. The live motion is on the **[interactive page](https://bigq749.github.io/BigQ749/)**: spotlight follows the pointer, cards tilt and float.
 
-**GitHub**: [https://github.com/BigQ749](https://github.com/BigQ749)
+Email: [saijunqi@gmail.com](mailto:saijunqi@gmail.com)
 
 ---
 

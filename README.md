@@ -3,14 +3,22 @@
 </p>
 
 <p align="center">
-  <img src="./assets/readme/hero.png" width="100%" alt="硬件、桌面工具、Agent Skill。能用，再开源。">
+  <a href="https://bigq749.github.io/BigQ749/">
+    <img src="./assets/readme/hero.gif" width="100%" alt="互动主页：鼠标跟光、卡片浮动。点击打开完整 UI。">
+  </a>
 </p>
 
-硬件 · 桌面工具 · Agent Skill。齐赛军，GitHub [`BigQ749`](https://github.com/BigQ749)。
+<p align="center">
+  <a href="https://bigq749.github.io/BigQ749/"><strong>打开互动主页 →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:saijunqi@gmail.com">saijunqi@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/BigQ749">GitHub</a>
+</p>
 
-**邮箱**（直接点开写信）：[saijunqi@gmail.com](mailto:saijunqi@gmail.com)
+GitHub README 不能运行真正的按钮和悬停。完整动效在 **[互动主页](https://bigq749.github.io/BigQ749/)**：光斑跟鼠标走，卡片会倾斜、浮动。
 
-**GitHub**：[https://github.com/BigQ749](https://github.com/BigQ749)
+邮箱（直接写信）：[saijunqi@gmail.com](mailto:saijunqi@gmail.com)
 
 ---
 
