@@ -2,18 +2,17 @@
   <strong>简体中文</strong> · <a href="./README.en.md">English</a>
 </p>
 
-<img src="./assets/readme/avatar.jpg" width="88" height="88" alt="齐" align="left">
+<p align="center">
+  <img src="./assets/readme/hero.png" width="100%" alt="齐赛军：能摸到的硬件，能跑起来的工具，能交给 Agent 的 Skill。">
+</p>
 
-**齐赛军** · `BigQ749`
+<p align="center">
+  <a href="mailto:saijunqi@gmail.com"><img src="./assets/readme/contact.png" width="560" alt="邮箱 saijunqi@gmail.com · GitHub @BigQ749"></a>
+</p>
 
-能摸到的硬件、能挂在桌面上的工具、能交给 Agent 的 Skill。  
-做到能用，再开源。
-
-<br clear="all">
-
----
-
-现在公开的东西：
+<p align="center">
+  <img src="./assets/readme/works.png" width="100%" alt="作品：TRAE K2、QuotaDock、抖音转写、穹顶、台风互助、Growth Skills。">
+</p>
 
 - [TRAE K2](https://github.com/BigQ749/trae-k2-remote) — 大赛工牌烧成闪电说 / PPT 遥控器，不用伴侣脚本。
 - [QuotaDock](https://github.com/BigQ749/quotadock) — 桌面额度浮窗。Codex、Grok、OpenCode 可分可合。
@@ -22,4 +21,4 @@
 - [Typhoon Relief](https://github.com/BigQ749/typhoon-relief) — 微信小程序：附近 SOS + 防灾科普。
 - [Codex Growth Skills](https://github.com/BigQ749/codex-growth-skills) — 给 Codex 用的学习记忆和成长教练。
 
-联系：[@BigQ749](https://github.com/BigQ749)
+📫 [saijunqi@gmail.com](mailto:saijunqi@gmail.com) · GitHub [@BigQ749](https://github.com/BigQ749)
