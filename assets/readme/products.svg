@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t d">
+  <title id="t">三类正在做的事</title>
+  <desc id="d">工牌硬件、桌面工具、Agent Skill 三块工作方向。</desc>
+  <rect width="1200" height="220" rx="26" fill="#0B1220"/>
+  <g font-family="Segoe UI, Microsoft YaHei, PingFang SC, sans-serif">
+    <rect x="24" y="24" width="368" height="172" rx="20" fill="#F7F3EA"/>
+    <text x="48" y="64" fill="#E87A5F" font-size="18" letter-spacing="2">01  HARDWARE</text>
+    <text x="48" y="104" fill="#161C2C" font-size="28" font-weight="700">TRAE K2</text>
+    <text x="48" y="140" fill="#4B5563" font-size="20">大赛工牌 → 口袋遥控器</text>
+    <text x="48" y="168" fill="#6B7280" font-size="18">ESP32-C3  ·  BLE HID  ·  三键</text>
+
+    <rect x="416" y="24" width="368" height="172" rx="20" fill="#5FCFC0"/>
+    <text x="440" y="64" fill="#12302E" font-size="18" letter-spacing="2">02  DESKTOP</text>
+    <text x="440" y="104" fill="#12302E" font-size="28" font-weight="700">QuotaDock</text>
+    <text x="440" y="140" fill="#12302E" font-size="20">额度浮窗，可分可合</text>
+    <text x="440" y="168" fill="#1F4A47" font-size="18">Codex  ·  Grok  ·  OpenCode</text>
+
+    <rect x="808" y="24" width="368" height="172" rx="20" fill="#6B63E8"/>
+    <text x="832" y="64" fill="#DDD7FF" font-size="18" letter-spacing="2">03  AGENT SKILL</text>
+    <text x="832" y="104" fill="#F5F2FF" font-size="28" font-weight="700">Douyin Analyzer</text>
+    <text x="832" y="140" fill="#E4DEFF" font-size="20">链接进，文字稿和摘要出</text>
+    <text x="832" y="168" fill="#C9C2F2" font-size="18">Playwright  ·  Whisper  ·  无付费 API</text>
+  </g>
+</svg>

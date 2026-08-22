@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="88" viewBox="0 0 420 88" role="img" aria-labelledby="t d">
+  <title id="t">在 GitHub 关注 齐赛军 @BigQ749</title>
+  <desc id="d">Follow the maker on GitHub at BigQ749</desc>
+  <rect x="1" y="1" width="418" height="86" rx="18" fill="#F7F8FA" stroke="#E5E7EB"/>
+  <path d="M18 18 h14 M18 18 v14" fill="none" stroke="#C5CAD3" stroke-width="1.5"/>
+  <path d="M402 18 h-14 M402 18 v14" fill="none" stroke="#C5CAD3" stroke-width="1.5"/>
+  <path d="M18 70 h14 M18 70 v-14" fill="none" stroke="#C5CAD3" stroke-width="1.5"/>
+  <path d="M402 70 h-14 M402 70 v-14" fill="none" stroke="#C5CAD3" stroke-width="1.5"/>
+  <text x="28" y="28" fill="#6B7280" font-size="10" font-family="Segoe UI, sans-serif" letter-spacing="2.2">FOLLOW THE MAKER</text>
+  <circle cx="40" cy="56" r="14" fill="#111827"/>
+  <text x="35" y="61" fill="#F9FAFB" font-size="14" font-weight="700" font-family="Microsoft YaHei, sans-serif">齐</text>
+  <text x="62" y="61" fill="#111827" font-size="18" font-weight="700" font-family="Segoe UI, sans-serif">@BigQ749</text>
+  <g transform="translate(332 22)">
+    <circle cx="28" cy="22" r="22" fill="#111827"/>
+    <path fill="#F9FAFB" d="M28 10.2c-7.2 0-13 5.8-13 13 0 5.7 3.7 10.6 8.9 12.3.6.1.9-.3.9-.6v-2.2c-3.6.8-4.4-1.7-4.4-1.7-.6-1.4-1.4-1.8-1.4-1.8-1.2-.8.1-.8.1-.8 1.3.1 2 1.3 2 1.3 1.1 2 3 1.4 3.7 1.1.1-.8.4-1.4.8-1.7-2.9-.3-5.9-1.4-5.9-6.4 0-1.4.5-2.6 1.3-3.5-.1-.3-.6-1.6.1-3.4 0 0 1.1-.3 3.6 1.3a12.4 12.4 0 0 1 6.6 0c2.5-1.6 3.6-1.3 3.6-1.3.7 1.8.2 3.1.1 3.4.8.9 1.3 2.1 1.3 3.5 0 5-3 6.1-5.9 6.4.5.4.9 1.2.9 2.4v3.5c0 .3.2.7.9.6A13 13 0 0 0 41 23.2c0-7.2-5.8-13-13-13z"/>
+  </g>
+</svg>
