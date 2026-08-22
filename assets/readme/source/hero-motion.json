@@ -1,8 +1,0 @@
-{
-  "width": 1200,
-  "height": 400,
-  "fps": 20,
-  "duration": 5.0,
-  "hold_ms": 3000,
-  "notes": "Cards ease into place, hold still, ease back to the first frame. GitHub plays the GIF; hero.svg is the editable fallback."
-}

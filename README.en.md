@@ -2,33 +2,24 @@
   <a href="./README.md">简体中文</a> · <strong>English</strong>
 </p>
 
-<p align="center">
-  <img src="./assets/readme/hero.gif" width="100%" alt="Saijun Qi: hardware you can hold, tools you can run.">
-</p>
+<img src="./assets/readme/avatar.jpg" width="88" height="88" alt="Qi" align="left">
 
-### Hi there 👋
+**Saijun Qi** · `BigQ749`
 
-I'm **Saijun Qi** (齐赛军). GitHub: [BigQ749](https://github.com/BigQ749)
+Hardware you can hold, desktop tools you can run, skills an agent can pick up.  
+Ship it when it works, then open the source.
 
-I build hardware you can hold, desktop tools you can run, and skills an agent can pick up.
+<br clear="all">
 
-📫 How to reach me:
+---
 
-- GitHub: [BigQ749](https://github.com/BigQ749)
+What is public:
 
-<p align="center">
-  <a href="https://github.com/BigQ749"><img src="./assets/readme/follow-github.svg" width="420" alt="Follow Saijun Qi on GitHub at @BigQ749"></a>
-</p>
+- [TRAE K2](https://github.com/BigQ749/trae-k2-remote) — Flash a contest badge into a dictation / PowerPoint remote. No companion script.
+- [QuotaDock](https://github.com/BigQ749/quotadock) — Desktop quota overlay. Codex, Grok, and OpenCode stay separate or snap together.
+- [Douyin Video Analyzer](https://github.com/BigQ749/douyin-video-analyzer-skill) — Paste a Douyin link, get a transcript and summary.
+- [Dome](https://github.com/BigQ749/dome-enterprise-ai-workbench) — Local-first enterprise agent workbench.
+- [Typhoon Relief](https://github.com/BigQ749/typhoon-relief) — WeChat mini program: nearby SOS plus typhoon guides.
+- [Codex Growth Skills](https://github.com/BigQ749/codex-growth-skills) — Project memory and growth coaching for Codex.
 
-<p align="center">
-  <img src="./assets/readme/products.svg" width="100%" alt="Three workstreams: TRAE K2 hardware, QuotaDock desktop overlay, Douyin Analyzer agent skill.">
-</p>
-
-My Products:
-
-- [TRAE K2](https://github.com/BigQ749/trae-k2-remote) — Flash a FoloToy contest badge into a BLE HID remote for dictation and PowerPoint. No companion script.
-- [QuotaDock](https://github.com/BigQ749/quotadock) — A Windows / macOS quota overlay. Codex, Grok, and OpenCode stay separate or snap into one window.
-- [Douyin Video Analyzer](https://github.com/BigQ749/douyin-video-analyzer-skill) — Paste a Douyin link, get a transcript and summary. Playwright fetches the stream; no paid parser API.
-- [Dome](https://github.com/BigQ749/dome-enterprise-ai-workbench) — A local-first enterprise agent workbench: knowledge, permissions, tasks, and review in one place.
-- [Typhoon Relief](https://github.com/BigQ749/typhoon-relief) — A WeChat mini program for nearby SOS help plus typhoon safety guides.
-- [Codex Growth Skills](https://github.com/BigQ749/codex-growth-skills) — Lightweight Codex skills for project memory and growth coaching.
+Contact: [@BigQ749](https://github.com/BigQ749)
